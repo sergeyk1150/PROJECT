@@ -18,6 +18,7 @@ export const App = () => {
 				>
 					Learn React
 				</a>
+				{/* декларативный метод */}
 				<div>{date.getFullYear()}</div>
 			</header>
 		</div>
